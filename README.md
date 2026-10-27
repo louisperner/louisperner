@@ -52,8 +52,4 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louisperner&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="GitHub stats" height="150" />
-</p>
-
 <p align="center"><sub>Have an idea you can't stop thinking about? <a href="https://datamonkeys.ai">Let's build it.</a></sub></p>
