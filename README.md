@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://louisperner.dev">louisperner.dev</a> ·
   <a href="https://www.linkedin.com/in/louis-perner">LinkedIn</a> ·
-  <a href="https://github.com/datamonkeys">datamonkeys on GitHub</a> ·
+  <a href="https://github.com/datamonkeys-ai">datamonkeys on GitHub</a> ·
   <a href="mailto:louis@datamonkeys.ai">louis@datamonkeys.ai</a>
 </p>
 
@@ -33,7 +33,7 @@
 
 | Project | What it is |
 |---|---|
-| [TraduzaJa](https://github.com/datamonkeys/TraduzaJa) | macOS menu bar translator. Select text, press ⌃⇧T, it is replaced in place. Runs on Claude Code, no API key. |
+| [TraduzaJa](https://github.com/datamonkeys-ai/TraduzaJa) | macOS menu bar translator. Select text, press ⌃⇧T, it is replaced in place. Runs on Claude Code, no API key. |
 | [AstroMCP](https://github.com/louisperner/AstroMCP) | MCP server with read-only access to public astronomy archives (TNS, SIMBAD, Gaia, ZTF, Rubin). |
 | [CacaSN](https://github.com/louisperner/CacaSN) | Supernova hunter for the public ZTF alert stream, with Transient Name Server check. |
 | [CacaZoo](https://github.com/louisperner/CacaZoo) | Automatic triage for Zooniverse projects: brown dwarfs, active asteroids, transients. |
